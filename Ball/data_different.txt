@@ -19,6 +19,8 @@ Jeppes længde måling
 
 Robins længde måling
 [14.65,32.45,50.57,69.35,63.82]  # cm
+[14.65,32.45,50.57,69.35,83.82]  # cheat
+
 
 
 Laser robin 
